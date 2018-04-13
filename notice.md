@@ -83,7 +83,7 @@
 
 ## Changes
 
-- [ ] California B&PC 22575(b)(3): "Describe the process by which the operator notifies consumers who use or visit its commercial Web site or online service of material changes to the operator’s privacy policy for that Web site or online service."
+- [ ] California B&PC 22575(b)(3): "Describe the process by which the operator notifies consumers who use or visit its commercial Web site or online service of material changes to the operator's privacy policy for that Web site or online service."
 
 - [ ] California B&PC 22575(b)(4): "Identify its effective date."
 
@@ -148,13 +148,13 @@
 
 ### Cross-Site Tracking
 
-- [ ] California B&PC 22575(b)(6): "Disclose whether other parties may collect personally identifiable information about an individual consumer’s online activities over time and across different Web sites when a consumer uses the operator’s Web site or service."
+- [ ] California B&PC 22575(b)(6): "Disclose whether other parties may collect personally identifiable information about an individual consumer's online activities over time and across different Web sites when a consumer uses the operator's Web site or service."
 
 ### Do Not Track
 
-- [ ] California B&PC 22575(b)(5): "Disclose how the operator responds to Web browser “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party Web sites or online services, if the operator engages in that collection."
+- [ ] California B&PC 22575(b)(5): "Disclose how the operator responds to Web browser "do not track" signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer's online activities over time and across third-party Web sites or online services, if the operator engages in that collection."
 
-- [ ] California B&PC 22575(b)(7): "An operator may satisfy the requirement of paragraph (5) by providing a clear and conspicuous hyperlink in the operator’s privacy policy to an online location containing a description, including the effects, of any program or protocol the operator follows that offers the consumer that choice."
+- [ ] California B&PC 22575(b)(7): "An operator may satisfy the requirement of paragraph (5) by providing a clear and conspicuous hyperlink in the operator's privacy policy to an online location containing a description, including the effects, of any program or protocol the operator follows that offers the consumer that choice."
 
 
 ### Standardized Icons
