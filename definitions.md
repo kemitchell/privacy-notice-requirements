@@ -17,3 +17,10 @@ California B&PC 2577(a):
 > (6)  Any other identifier that permits the physical or online contacting of a specific individual.
 >
 > (7)  Information concerning a user that the Web site or online service collects online from the user and maintains in personally identifiable form in combination with an identifier described in this subdivision.
+
+
+# EU-US Privacy Shield
+
+Privacy Shield I.8.a:
+
+> - "Personal data" and "personal information" are data about an identified or identifiable individual that are within the scope of the Directive, received by an organization in the United States from the European Union, and recorded in any form.
