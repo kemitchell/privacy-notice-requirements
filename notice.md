@@ -11,8 +11,6 @@
 
 - [ ] California B&PC 22577: home page or privacy icon on homepage or privacy link on homepage or other reasonable means for a web service
 
-- [ ] California B&PC 22575(b)(4): identify effective date
-
 - [ ] Privacy Shield II.1.a.i: "must inform individuals about..."
 
 - [ ] Privacy Shield II.1.b: "when individuals are first asked to provide personal information to the organization or as soon thereafter as is practicable, but in any event before the organization uses such information for a purpose other than that for which it was originally collected or processed by the transferring organization or discloses it for the first time to a third party"
@@ -40,6 +38,8 @@
 ## Changes
 
 - [ ] California B&PC 22575(b)(3): describe change-notification procedure
+
+- [ ] California B&PC 22575(b)(4): identify effective date
 
 
 ## Rights
