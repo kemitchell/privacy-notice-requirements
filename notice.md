@@ -33,8 +33,6 @@
 
 - [ ] Privacy Shield II.1.a.ii: "the types of personal data collected"
 
-- [ ] GDPR 13(1)(e): "the recipients or categories of recipients of the personal data, if any;"
-
 - [ ] GDPR 14(1)(d): "the categories of personal data concerned;"
 
 - [ ] GDPR 14(2)(f): "from which source the personal data [not obtained from the data subject] originate, and if applicable, whether it came from publicly accessible sources;"
@@ -118,6 +116,8 @@
 - [ ] Privacy Shield II.1.a.vi: "the type or identities of third parties to which it discloses personal information"
 
 - [ ] GDPR 13(1)(f): "where applicable, the fact that the controller intends to transfer personal data to a third country or international organisation and the existence or absence of an adequacy decision by the Commission, or in the case of transfers referred to in Article 46 or 47, or the second subparagraph of Article 49(1), reference to the appropriate or suitable safeguards and the means by which to obtain a copy of them or where they have been made available."
+
+- [ ] GDPR 13(1)(e): "the recipients or categories of recipients of the personal data, if any;"
 
 - [ ] GDPR 14(1)(e): "the recipients or categories of recipients of the personal data, if any;"
 
