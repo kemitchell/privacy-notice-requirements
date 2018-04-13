@@ -7,9 +7,9 @@
 
 ## Delivery
 
-- [ ] California B&PC 22575: conspicuously post per 22577(b)(5)
+- [ ] California B&PC 22575: "conspicuously post its privacy policy on its Web site, or in the case of an operator of an online service, make that policy publicly available in accordance with paragraph (5) of subdivision (b) of Section 22577"
 
-- [ ] California B&PC 22577: home page or privacy icon on homepage or privacy link on homepage or other reasonable means for a web service
+- [ ] California B&PC 22577: see definition of "conspicuously post"
 
 - [ ] Privacy Shield II.1.a.i: "must inform individuals about..."
 
@@ -18,7 +18,7 @@
 
 ## Collection
 
-- [ ] California B&PC 22575(b)(1): identify categories of PII
+- [ ] California B&PC 22575(b)(1): "Identify the categories of personally identifiable information that the operator collects through the Web site or online service about individual consumers who use or visit its commercial Web site or online service"
 
 - [ ] Privacy Shield II.1.a.ii: "the types of personal data collected"
 
@@ -32,14 +32,14 @@
 
 ## Procedures
 
-- [ ] California B&PC 22575(b)(2): identify and describe any review and change request procedures
+- [ ] California B&PC 22575(b)(2): "If the operator maintains a process for an individual consumer who uses or visits its commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through the Web site or online service, provide a description of that process."
 
 
 ## Changes
 
-- [ ] California B&PC 22575(b)(3): describe change-notification procedure
+- [ ] California B&PC 22575(b)(3): "Describe the process by which the operator notifies consumers who use or visit its commercial Web site or online service of material changes to the operator’s privacy policy for that Web site or online service."
 
-- [ ] California B&PC 22575(b)(4): identify effective date
+- [ ] California B&PC 22575(b)(4): "Identify its effective date."
 
 
 ## Rights
@@ -50,6 +50,8 @@
 
 
 ## Third Parties
+
+- [ ] California B&PC 22575(b)(1): "Identify ... the categories of third-party persons or entities with whom the operator may share that personally identifiable information [about individual consumers who use or visit its commercial Web site or online service]"
 
 - [ ] Privacy Shield II.1.a.vi: "the type or identities of third parties to which it discloses personal information"
 
@@ -76,12 +78,13 @@
 
 ### Cross-Site Tracking
 
-- [ ] California B&PC 22575(b)(6): disclose whether others may collect PIII about activities over time across different sites
-
+- [ ] California B&PC 22575(b)(6): "Disclose whether other parties may collect personally identifiable information about an individual consumer’s online activities over time and across different Web sites when a consumer uses the operator’s Web site or service."
 
 ### Do Not Track
 
-- [ ] California B&PC 22575(b)(5),(7): disclose how responds to Do Not Track, possibly with a link to description of program or protocol
+- [ ] California B&PC 22575(b)(5): "Disclose how the operator responds to Web browser “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party Web sites or online services, if the operator engages in that collection."
+
+- [ ] California B&PC 22575(b)(7): "An operator may satisfy the requirement of paragraph (5) by providing a clear and conspicuous hyperlink in the operator’s privacy policy to an online location containing a description, including the effects, of any program or protocol the operator follows that offers the consumer that choice."
 
 
 ## Contacts
