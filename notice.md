@@ -178,6 +178,8 @@
 
 - [ ] GDPR 14(1)(b): "the contact details of the data protection officer, where applicable;"
 
+- [ ] GDPR 27(4): "The representative shall be mandated by the controller or processor to be addressed in addition to or instead of the controller or the processor by, in particular, supervisory authorities and data subjects, on all issues related to processing, for the purposes of ensuring compliance with this Regulation."
+
 
 ## Disputes
 
